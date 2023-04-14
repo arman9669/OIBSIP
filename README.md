@@ -1,0 +1,2 @@
+# Task-1 Landing Page
+The first task demands developing a Landing Page. This landing page is about an online platform for metaverse lovers.This site allows playing multiple metaverse adventures. The languages used in making this web page are HTML and CSS no framework has been used. It is completely responsive with a sticky navbar and with the use of various CSS properties to make the web page more attractive.
